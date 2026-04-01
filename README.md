@@ -1,5 +1,5 @@
 ## Hi there 👋
-# To find out more about me and find my CV look here:
+### To find out more about me and find my CV look here:
 https://saketh06.github.io/Saketh06/
 <!--
 **Saketh06/Saketh06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
